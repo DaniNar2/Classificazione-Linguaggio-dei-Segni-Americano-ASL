@@ -8,7 +8,7 @@ La relazione del progetto è disponibile [qui]()
 ## Dataset
 Il dataset è reperibile al seguente [link](https://www.kaggle.com/datasets/lexset/synthetic-asl-alphabet)
 ## Codice
-- Classificazione con utilizzo di Mediapipe: [Link al codice]()
+- Classificazione con utilizzo di Mediapipe: [Link al codice](https://github.com/DaniNar2/Classificazione-Linguaggio-dei-Segni-Americano-ASL/blob/main/Classificazione_ASL_con_Mediapipe.ipynb)
 - Classificazione senza utilizzo di Mediapipe: [Link al codice]()
 ## Autore
 - Daniela Nardone
